@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "azure-iot-device": "1.1.7",
+    "azure-iot-device-mqtt": "1.1.7",
+    "azure-iothub": "1.1.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
